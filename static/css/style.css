@@ -471,22 +471,25 @@ blockquote {
 }
 
 .bubble-1 {
-  top: 10%;
+  top: 0;
   right: 5%;
+  z-index: 2;
   animation-delay: 0s;
   border-left: 4px solid #1cb0f6;
 }
 
 .bubble-2 {
-  bottom: 25%;
-  left: 0;
+  bottom: 5%;
+  left: -10%;
+  z-index: 2;
   animation-delay: 1s;
   border-left: 4px solid var(--red);
 }
 
 .bubble-3 {
-  top: 55%;
-  right: -5%;
+  bottom: 5%;
+  right: -15%;
+  z-index: 2;
   animation-delay: 2s;
   border-left: 4px solid var(--gold);
 }
