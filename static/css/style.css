@@ -471,7 +471,7 @@ blockquote {
 }
 
 .bubble-1 {
-  top: 0;
+  top: 10%;
   right: 5%;
   z-index: 2;
   animation-delay: 0s;
