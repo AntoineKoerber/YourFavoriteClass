@@ -479,16 +479,16 @@ blockquote {
 }
 
 .bubble-2 {
-  bottom: 5%;
-  left: -10%;
+  bottom: 12%;
+  left: -15%;
   z-index: 2;
   animation-delay: 1s;
   border-left: 4px solid var(--red);
 }
 
 .bubble-3 {
-  bottom: 5%;
-  right: -15%;
+  bottom: -8%;
+  right: -10%;
   z-index: 2;
   animation-delay: 2s;
   border-left: 4px solid var(--gold);
